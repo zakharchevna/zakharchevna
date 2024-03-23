@@ -3,8 +3,8 @@
   Welcome to my Github!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-<h2>Front-end Developer</h2>
-<h2>Passionate about programming. Eager to improve. Let's collaborate.</h2>
+<h3>Front-end Developer</h2>
+<h4>Passionate about programming. Eager to improve. Let's collaborate.</h2>
 
   ## :star: About Me:
   🔭 I’m currently working on Front End Development Libraries Certification on @freeCodeCamp<br> :raising_hand: I'm looking to collaborate on Open Source Projects, particularly those with beginner-friendly 
